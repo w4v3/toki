@@ -1,2 +1,2 @@
 # toki
-minimalist string processing language based on term rewriting
+minimalist string processing language based on term rewriting, in development
